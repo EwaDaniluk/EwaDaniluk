@@ -13,7 +13,7 @@ Na moim GitHubie znajdziesz projekty związane z:
 
 Pracuję z:
 - **C++** — implementacje algorytmów i projekty systemowe,
-- **Python** — analiza danych, przetwarzanie obrazu i dźwięku,
+- **Python** — analiza danych, przetwarzanie obrazu i dźwięku, eksperymenty z ML,
 - **SDL / POV-Ray / OpenGL** — narzędzia do grafiki i wizualizacji.
 
 ## 🔎 Najważniejsze projekty
